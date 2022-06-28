@@ -1,12 +1,17 @@
-﻿namespace DataStractureProject
+namespace DataStractureProject
 {
     class Program
     {
         static void Main(string[] args)
         {
-            SLLCaller();
+            //SLLCaller();
+            //DLLCaller()
+            //QueueTest.MainQueue();
+            StackTest.MainStack();
             Console.ReadLine();
         }
+
+
         static void DLLCaller()
         {
             HelperDLL objHelper = new HelperDLL();
