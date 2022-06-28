@@ -10,7 +10,7 @@ namespace DataStractureProject
     public class QueueTest
     {
         //Fast in Fast out
-        public static void Main1()
+        public static void MainQueue()
         {
 
             // Creating a Queue 
