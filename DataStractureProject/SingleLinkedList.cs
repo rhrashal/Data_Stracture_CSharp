@@ -10,6 +10,7 @@ namespace DataStractureProject
     public class SingleLinkedList
     {
         internal Node head;
+
     }
     internal class Node
     {
